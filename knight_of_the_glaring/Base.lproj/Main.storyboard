@@ -81,7 +81,7 @@
                                 <rect key="frame" x="16" y="58" width="240" height="520"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">When I recieved the summons, I figured it was just a normal "fetch the thing" or "teach these boys a lesson", like it usually is. I realised that was not the case </string>
+                                <string key="text">When I recieved the summons, I figured it was just a normal "fetch the thing" or "teach these boys a lesson", like it usually is. I realised that was not the case when I read the room (er... alley). The council greeted my with their usual cold stare, those of cats who lived their whole lives on the streets, but the intent they held was enough to kill a small rodent. "Gerbil," one began, "it is time we give you a task of great importance." </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
