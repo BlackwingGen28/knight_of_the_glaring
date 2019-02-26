@@ -90,7 +90,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="JRS-W5-B2t" kind="presentation" id="clW-Vk-4SO"/>
+                                    <segue destination="JRS-W5-B2t" kind="modal" modalTransitionStyle="partialCurl" id="clW-Vk-4SO"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -123,7 +123,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="CS5-e7-h7h" kind="presentation" id="bh6-ru-A9Z"/>
+                                    <segue destination="CS5-e7-h7h" kind="modal" modalTransitionStyle="partialCurl" id="bh6-ru-A9Z"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -156,7 +156,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="GHe-Ou-4k7" kind="presentation" id="JxE-hD-PPu"/>
+                                    <segue destination="GHe-Ou-4k7" kind="modal" modalTransitionStyle="partialCurl" id="JxE-hD-PPu"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -189,7 +189,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="Vuc-mE-dDK" kind="presentation" id="Zoc-4u-Atd"/>
+                                    <segue destination="Vuc-mE-dDK" kind="modal" modalTransitionStyle="partialCurl" id="Zoc-4u-Atd"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -222,7 +222,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="vip-q1-sKT" kind="presentation" id="71S-Jr-ehq"/>
+                                    <segue destination="vip-q1-sKT" kind="modal" modalTransitionStyle="partialCurl" id="71S-Jr-ehq"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -255,7 +255,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Calm him down."/>
                                 <connections>
-                                    <segue destination="y4e-66-uxX" kind="presentation" id="3Wl-dQ-AmR"/>
+                                    <segue destination="y4e-66-uxX" kind="presentation" modalTransitionStyle="partialCurl" id="3Wl-dQ-AmR"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y4b-rU-rbv">
@@ -263,7 +263,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Scare the information out of him."/>
                                 <connections>
-                                    <segue destination="VAo-im-a8A" kind="presentation" id="fg2-ND-yhf"/>
+                                    <segue destination="VAo-im-a8A" kind="presentation" modalTransitionStyle="partialCurl" id="fg2-ND-yhf"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -296,7 +296,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="B9u-k0-Wkn" kind="presentation" id="YgR-eN-8l5"/>
+                                    <segue destination="B9u-k0-Wkn" kind="presentation" modalTransitionStyle="partialCurl" id="YgR-eN-8l5"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -329,7 +329,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Go Right"/>
                                 <connections>
-                                    <segue destination="nC9-Gy-tYQ" kind="presentation" id="Gef-Ax-KPL"/>
+                                    <segue destination="nC9-Gy-tYQ" kind="presentation" modalTransitionStyle="partialCurl" id="Gef-Ax-KPL"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oLC-4N-oJf">
@@ -337,7 +337,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Go Left"/>
                                 <connections>
-                                    <segue destination="r2D-WA-C77" kind="presentation" id="8lf-3f-5Ki"/>
+                                    <segue destination="r2D-WA-C77" kind="presentation" modalTransitionStyle="partialCurl" id="8lf-3f-5Ki"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -370,7 +370,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Retry from last checkpoint?"/>
                                 <connections>
-                                    <segue destination="vip-q1-sKT" kind="presentation" id="uTv-Nk-ipA"/>
+                                    <segue destination="vip-q1-sKT" kind="modal" identifier="OppsIdied" modalTransitionStyle="partialCurl" id="uTv-Nk-ipA"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -403,7 +403,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Fight."/>
                                 <connections>
-                                    <segue destination="GX4-9P-nsI" kind="presentation" id="c7b-Xi-AaP"/>
+                                    <segue destination="GX4-9P-nsI" kind="presentation" modalTransitionStyle="partialCurl" id="c7b-Xi-AaP"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NCo-RB-O3t">
@@ -411,7 +411,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Bargain."/>
                                 <connections>
-                                    <segue destination="zyw-Yz-wn6" kind="presentation" id="CJ4-1U-L4S"/>
+                                    <segue destination="zyw-Yz-wn6" kind="presentation" modalTransitionStyle="partialCurl" id="CJ4-1U-L4S"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -444,7 +444,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="M16-iC-iVc" kind="presentation" id="UqJ-84-e9j"/>
+                                    <segue destination="M16-iC-iVc" kind="presentation" modalTransitionStyle="partialCurl" id="UqJ-84-e9j"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -454,7 +454,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aoZ-Re-AWv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="9562.3999999999996" y="1195.0524737631185"/>
+            <point key="canvasLocation" x="9551" y="1245"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="d6r-o1-W5Q">
@@ -477,7 +477,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="qZ0-t2-zzw" kind="presentation" id="gBJ-v2-FlR"/>
+                                    <segue destination="qZ0-t2-zzw" kind="presentation" modalTransitionStyle="partialCurl" id="gBJ-v2-FlR"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -487,7 +487,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dCz-Nq-TFS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="10828" y="1195"/>
+            <point key="canvasLocation" x="10828" y="1245"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="MrR-5T-uO9">
@@ -502,7 +502,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="SLd-wB-7ID" kind="presentation" id="p0X-yk-KfR"/>
+                                    <segue destination="SLd-wB-7ID" kind="presentation" modalTransitionStyle="partialCurl" id="p0X-yk-KfR"/>
                                 </connections>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="c6d-lA-yUe">
@@ -520,7 +520,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kt7-o8-pN9" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="11768.799999999999" y="1194.1529235382309"/>
+            <point key="canvasLocation" x="11769" y="1245"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="z7d-Bi-dV8">
@@ -550,7 +550,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Not-Yw-Lpn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="12693.6" y="1193.2533733133434"/>
+            <point key="canvasLocation" x="12694" y="1245"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="wWt-uv-vEF">
@@ -572,6 +572,9 @@
                                 <rect key="frame" x="143" y="607" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="mTX-Up-pyE" kind="presentation" id="CH4-ew-C74"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -603,7 +606,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Fight."/>
                                 <connections>
-                                    <segue destination="vP4-dC-Kg9" kind="presentation" id="5gm-OT-YEb"/>
+                                    <segue destination="vP4-dC-Kg9" kind="presentation" modalTransitionStyle="partialCurl" id="5gm-OT-YEb"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LJm-if-yTj">
@@ -611,7 +614,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Bargain."/>
                                 <connections>
-                                    <segue destination="UNp-aP-Mwc" kind="presentation" id="8SP-df-R2m"/>
+                                    <segue destination="UNp-aP-Mwc" kind="presentation" modalTransitionStyle="partialCurl" id="8SP-df-R2m"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -643,6 +646,9 @@
                                 <rect key="frame" x="137" y="600" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="3gK-KG-nnr" kind="presentation" id="9VT-kd-wPU"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -652,6 +658,56 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aex-Ng-B6n" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="10168.799999999999" y="-156.07196401799101"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="NaP-8A-48m">
+            <objects>
+                <viewController id="3gK-KG-nnr" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="SqT-OI-S8V">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="mbB-BA-Og5">
+                                <rect key="frame" x="71" y="37" width="288" height="522"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obiedient to the note, I still waited. Smack! something hit the back of my head, and I fell, unconcious.</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="Q6k-ZJ-dDn"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6SS-VB-OaD" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="11221.6" y="-156.07196401799101"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="PJZ-ab-6yU">
+            <objects>
+                <viewController id="mTX-Up-pyE" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="N0M-cN-ABe">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="OcT-kC-VIh">
+                                <rect key="frame" x="64" y="20" width="295" height="483"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obiedient to the note, I still waited. Smack! something hit the back of my head, and I fell, unconcious.</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="gH9-mB-Q0O"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PBh-vC-El3" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="11221.6" y="525.78710644677665"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="XT7-bI-ny0">
@@ -674,7 +730,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="Iv6-8b-3H4" kind="presentation" id="yvw-TU-sTq"/>
+                                    <segue destination="Iv6-8b-3H4" kind="presentation" modalTransitionStyle="partialCurl" id="yvw-TU-sTq"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -707,7 +763,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="BKL-pO-btY" kind="presentation" id="ETy-BV-fmj"/>
+                                    <segue destination="BKL-pO-btY" kind="presentation" modalTransitionStyle="partialCurl" id="ETy-BV-fmj"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -740,7 +796,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="6nc-gw-FP9" kind="presentation" id="4Sb-7w-PKv"/>
+                                    <segue destination="6nc-gw-FP9" kind="presentation" modalTransitionStyle="partialCurl" id="4Sb-7w-PKv"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -795,7 +851,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
                                 <connections>
-                                    <segue destination="Kt7-P3-2eJ" kind="presentation" id="vCu-li-fqg"/>
+                                    <segue destination="Kt7-P3-2eJ" kind="presentation" modalTransitionStyle="partialCurl" id="vCu-li-fqg"/>
                                 </connections>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ttX-CE-QXb">
@@ -836,7 +892,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Go Left"/>
                                 <connections>
-                                    <segue destination="EYv-qn-Al8" kind="presentation" id="Db9-8w-Equ"/>
+                                    <segue destination="EYv-qn-Al8" kind="presentation" modalTransitionStyle="partialCurl" id="Db9-8w-Equ"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VRQ-RB-glx">
@@ -844,7 +900,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Go Right"/>
                                 <connections>
-                                    <segue destination="nC9-Gy-tYQ" kind="presentation" id="5Md-2Q-xUA"/>
+                                    <segue destination="nC9-Gy-tYQ" kind="presentation" modalTransitionStyle="partialCurl" id="5Md-2Q-xUA"/>
                                 </connections>
                             </button>
                         </subviews>
