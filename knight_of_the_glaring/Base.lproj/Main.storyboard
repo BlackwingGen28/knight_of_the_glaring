@@ -81,7 +81,7 @@
                                 <rect key="frame" x="16" y="58" width="240" height="520"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">When I recieved the summons, I figured it was just a normal "fetch the thing" or "teach these boys a lesson", like it usually is. I realised that was not the case when I read the room (er... alley). The council greeted my with their usual cold stare, those of cats who lived their whole lives on the streets, but the intent they held was enough to kill a small rodent. "Gerbil," one began, "it is time we give you a task of great importance." They use this line for almost every mission, so I initially believed it was just another rat chase, but their tone of voice made me reconcider. "What is this task?" I inquired. "The Glaring has made a call..." I immediately went on high alert. The Glaring is a secretive group of eldars who govern all branches of the city districts. All on the streets honor them, not out of respect, but fear. The Glaring are recluses among recluses. None even know if they are cats, or if they even exist, but all know that sometimes those who challenge the Glaring end up missing...</mutableString>
+                                <string key="text">When I recieved the summons, I figured it was just a normal "fetch the thing" or "teach these boys a lesson", like it usually is. I realised that was not the case when I read the room (er... alley). The council greeted my with their usual cold stare, those of cats who lived their whole lives on the streets, but the intent they held was enough to kill a small rodent. "Gerbil," one began, "it is time we give you a task of great importance." They use this line for almost every mission, so I initially believed it was just another rat chase, but their tone of voice made me reconcider. "What is this task?" I inquired. "The Glaring has made a call..." I immediately went on high alert. The Glaring is a secretive group of eldars who govern all branches of the city districts. All on the streets honor them, not out of respect, but fear. The Glaring are recluses among recluses. None even know if they are cats, or if they even exist, but all know that sometimes those who challenge the Glaring end up missing...</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -114,7 +114,7 @@
                                 <rect key="frame" x="119" y="50" width="240" height="524"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">The council sensed my reaction. "Fear not" they said assuredly. "The Glaring demands not another disappearance, but instead sends a call to all districts. The time of the Knight has arrived." I felt a rush of wonder wash over me. A Knight? The Glaring is recruiting a Knight? Such things were thought of only in legend, that the Glaring would choose a Knight. "Each district," continued the council, "must send one candidate on a mission. Those who complete the mission must then pass the Glaring's judgement. Should one succeed, they will be Knighted. Our chosen vessel... is Kent." My excitement was shot down by shock. Kent? That rat of a cat doesn't know a tree from a fish, why would they send him? A chuckle sounded from the council. "We only jest. Our chosen vessel is you, of course." A sigh of relief escaped my lips. The council does not often show humor, but even they couldn't pass up the chance to mess with me. "Your mission is to find a whistle somewhere in this city. From there... we don't know."</mutableString>
+                                <string key="text">The council sensed my reaction. "Fear not" they said assuredly. "The Glaring demands not another disappearance, but instead sends a call to all districts. The time of the Knight has arrived." I felt a rush of wonder wash over me. A Knight? The Glaring is recruiting a Knight? Such things were thought of only in legend, that the Glaring would choose a Knight. "Each district," continued the council, "must send one candidate on a mission. Those who complete the mission must then pass the Glaring's judgement. Should one succeed, they will be Knighted. Our chosen vessel... is Kent." My excitement was shot down by shock. Kent? That rat of a cat doesn't know a tree from a fish, why would they send him? A chuckle sounded from the council. "We only jest. Our chosen vessel is you, of course." A sigh of relief escaped my lips. The council does not often show humor, but even they couldn't pass up the chance to mess with me. "Your mission is to find a whistle somewhere in this city. From there... we don't know."</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -147,7 +147,7 @@
                                 <rect key="frame" x="16" y="51" width="240" height="534"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">"You dont know after that?" I asked with amazement. "This is the Glaring we are talking about." came the reply. "They only mention what needs to be known." "Perhaps," I thought aloud, "this is part of the test. With as little information as possible, finish the mission." "That... actually makes sense. If the council wants a Knight, they must meet their standards. That kind of thinking is why we chose you, Gerbil." I didn't react much to the praise, one must not let things like compliments go to one's head. Those who get a big head wind up face down in a ditch. "To begin, we suggest you look for an informant. Anyone who might point you in the direction of the whistle." "I believe I know where to begin my search for informtion." "Good. Then go post haste. And Gerbil..." I looked at the council. They said with sincerity, "You represent all of our district. Remember that, and Godspeed." I nodded. The council rarely wished for good luck, being how fickle it can be. I turned and left the alley way. My first destination: the Rat's Nest, to meet an old friend.</mutableString>
+                                <string key="text">"You dont know after that?" I asked with amazement. "This is the Glaring we are talking about." came the reply. "They only mention what needs to be known." "Perhaps," I thought aloud, "this is part of the test. With as little information as possible, finish the mission." "That... actually makes sense. If the council wants a Knight, they must meet their standards. That kind of thinking is why we chose you, Gerbil." I didn't react much to the praise, one must not let things like compliments go to one's head. Those who get a big head wind up face down in a ditch. "To begin, we suggest you look for an informant. Anyone who might point you in the direction of the whistle." "I believe I know where to begin my search for informtion." "Good. Then go post haste. And Gerbil..." I looked at the council. They said with sincerity, "You represent all of our district. Remember that, and Godspeed." I nodded. The council rarely wished for good luck, being how fickle it can be. I turned and left the alley way. My first destination: the Rat's Nest, to meet an old friend.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -180,7 +180,7 @@
                                 <rect key="frame" x="16" y="45" width="240" height="539"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I had no trouble reaching my destination, I know these streets well. Many a mission I came here to learn about my targets. Only a few times did I need to get... demanding of my informants cooperation, these rats can get a bit stubborn at times. I rounded a corner and say my goal: a small, mildew-covered box, held up by rotting timbers gathered from some junk yard. I walked in the...establishment. A few regulars turned and looked at me, then back to their plates and cards. I lock eyes with ted, the bar keep. "Welcome," said ted in his grough voice. "please, come 'ave a seat." I approached the counter. "I am looking for-" "Tsk-tsk-tsk. Gerbil," Ted whispered, "have ya forgott'n the usual fee?" I sighed. "I'll have the usual." "Coming right up!" Ted whirled behind and started making the cocktail. Some vodka, aged well, mixed with Spak, which is juice made with a little cat nip. Simple, vile, but with enough flavor to keep me coming back. </mutableString>
+                                <string key="text">I had no trouble reaching my destination, I know these streets well. Many a mission I came here to learn about my targets. Only a few times did I need to get... demanding of my informants cooperation, these rats can get a bit stubborn at times. I rounded a corner and say my goal: a small, mildew-covered box, held up by rotting timbers gathered from some junk yard. I walked in the...establishment. A few regulars turned and looked at me, then back to their plates and cards. I lock eyes with ted, the bar keep. "Welcome," said ted in his grough voice. "please, come 'ave a seat." I approached the counter. "I am looking for-" "Tsk-tsk-tsk. Gerbil," Ted whispered, "have ya forgott'n the usual fee?" I sighed. "I'll have the usual." "Coming right up!" Ted whirled behind and started making the cocktail. Some vodka, aged well, mixed with Spak, which is juice made with a little cat nip. Simple, vile, but with enough flavor to keep me coming back. </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -210,13 +210,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="vgf-7Y-d7W">
-                                <rect key="frame" x="119" y="41" width="240" height="511"/>
+                                <rect key="frame" x="119" y="41" width="240" height="534"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <mutableString key="text">After my drink, I began again. "I'm here about an important mission." "Obviously, tis the only time ya come in. Now, what do ya want ta know?" "The Glaring is recruiting a new Knight and -." "Woah there! Imma not get involved with ta Glaring now. I don't think I can help ya this time. Sorry Gee." "Thanks anyway. See ya Ted." As I got up to leave, Ted cleared his throat. "Actually..." I gave him a quizical look. "Recently, Thalm over there has been spewin' some crazy bits lately. From what i've heard, it might be revelant to ya inquiry." Ted pointed to a shrew who sat alone in the corner. "Thanks, Ted." Ted grunted, a look of unease on his face. I walked over to the shrew in the corner. As I approached, he gave me a weary look. "Thalm?" I asked. Thalm's nose twitched when I spoke, like someone who heard nails scratching on a chalkboard. "Aye." was his response. I sat with him, which sent another subtle shiver through his body. "Sorry mate. Had some bad experiences with cats before. What do ya be needing?"</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ubM-8n-HvP">
+                                <rect key="frame" x="150" y="598" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="vip-q1-sKT" kind="presentation" id="71S-Jr-ehq"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="xGL-DT-uul"/>
@@ -226,5 +234,261 @@
             </objects>
             <point key="canvasLocation" x="4264.8000000000002" y="52.623688155922046"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="Emy-Eg-Pap">
+            <objects>
+                <viewController id="vip-q1-sKT" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3Jp-4Z-0bA">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Qbj-ZQ-uLe">
+                                <rect key="frame" x="16" y="45" width="240" height="305"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">"I am on a mission to find a certain whistle-"                                              "NO! I knows nothin' 'bout that mister! Please be on ya way!" The fear in his voice and actions suggest he might know something. Before I could ask further, he got up and brisk walked his way out of the "door". I got up and followed. He weaved and bobbed through the streets, but I easily kept pace. Soon, he was cornered. He shrunk against the brick wall. "Please sir, I knows nothin'. Please!" I need this information. What do I do?</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BQS-LI-lRf">
+                                <rect key="frame" x="132" y="442" width="110" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Calm him down."/>
+                                <connections>
+                                    <segue destination="y4e-66-uxX" kind="presentation" id="3Wl-dQ-AmR"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y4b-rU-rbv">
+                                <rect key="frame" x="75" y="546" width="225" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Scare the information out of him."/>
+                                <connections>
+                                    <segue destination="VAo-im-a8A" kind="presentation" id="fg2-ND-yhf"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="QsJ-cf-V0d"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Cxn-h2-S8I" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5189.6000000000004" y="52.623688155922046"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="aDi-qk-3dA">
+            <objects>
+                <viewController id="VAo-im-a8A" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="cH7-cZ-4H7">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="22Z-44-xwE">
+                                <rect key="frame" x="119" y="51" width="240" height="532"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">"I believe you do know of what I want. Now, how best to get you to talk..." I unsheathed my claws, my favorite tool for information gathering on stubborn sources. Thalm eyed my paw with fear. "No, sir! Please no!" I began the questioning. Thal lasted a full minute before the scratches were too much. "Please sir... no more!" "Then tell me what you know, or I bring out my LongClaw." I patted my rapier. The fear in his eyes told me he was ready. "Okay, okay. I'll tells ya. Western side of the city. In ta sewers. Look in there. tat is all I knows, I swear!" I could tell he wasn't lying. "See? that wasn't so hard now, was it? Take care of yourself, Mr. Thalm." I turned on the heel of my paw. As I left the alleyway, behind me I heard Thalm mumble. "Say hi to Brutus for me, sir."</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8BO-dW-Ghr">
+                                <rect key="frame" x="150" y="591" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="B9u-k0-Wkn" kind="presentation" id="YgR-eN-8l5"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="u5V-HK-OUb"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="708-qt-zFM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6207" y="648"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Mm8-oC-8wN">
+            <objects>
+                <viewController id="B9u-k0-Wkn" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="O22-qc-ogb">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="haZ-cZ-xOa">
+                                <rect key="frame" x="16" y="51" width="240" height="420"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I made it to the sewer entrance  within an hour. Upon entering, I nearly gagged from the smell. This is most definitely the sewers, I thought. I looked around. A greenish haze wafted everywhere, reducing visibility. The walls, from what I could see, were covered in various molds and slime. The sewers were a place I visit only with specific goals in mind. Mukrats, gangs of large, nasty rodents lurk under here. The streets of the streets. When my eyes adjusted to the dark as best they can with the fog, I saw two paths before me, one to the left and one to the right. Now, which way to go?</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vc8-le-xrg">
+                                <rect key="frame" x="157" y="479" width="60" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Go Right"/>
+                                <connections>
+                                    <segue destination="nC9-Gy-tYQ" kind="presentation" id="Gef-Ax-KPL"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oLC-4N-oJf">
+                                <rect key="frame" x="162" y="578" width="51" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Go Left"/>
+                                <connections>
+                                    <segue destination="r2D-WA-C77" kind="presentation" id="8lf-3f-5Ki"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="cse-BF-sh0"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="s0j-cU-CR0" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="7104.8000000000002" y="645.42728635682158"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="WrG-uV-48R">
+            <objects>
+                <viewController id="nC9-Gy-tYQ" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="fzG-bE-MBv">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="7O6-js-bGs">
+                                <rect key="frame" x="67" y="74" width="240" height="350.5"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I walked down the path to the right. As I journeyed inward, the darkness deepened. A sense of dread passed over me. Perhaps I should go back... Before I could decide, a noise made me jump. Terror, a rare feeling for me, filled my heart. Something was here, and it knew I was here. I saw eyes, yellow and dangerous. Fear froze me in place. I knew the animal these eyes belonged to- a dog. A feral dog. From the sounds, it was a German Shepard. Way to big for me to fight. He barked, and pounced on me. I was done for. His fangs bit into my figure. Pain filled all my senses. My vision started to fade. As I died, one name came to my mind. Brutus.</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jBu-u3-sBr">
+                                <rect key="frame" x="93" y="555" width="188" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Retry from last checkpoint?"/>
+                                <connections>
+                                    <segue destination="vip-q1-sKT" kind="presentation" id="uTv-Nk-ipA"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="9g4-B0-Q39"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2I5-dy-V4L" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="7924" y="80.50974512743629"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="0F5-nW-Nld">
+            <objects>
+                <viewController id="r2D-WA-C77" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="cCM-qE-HgX">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="sfC-co-QOm"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jq5-6d-UHi" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="8665" y="662"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="AUG-WL-zag">
+            <objects>
+                <viewController id="EYv-qn-Al8" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="7zi-HT-LVn">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="uZf-hH-KLM"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="HOp-Kb-O9p" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="8665" y="-508"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="yYU-Ac-8Sq">
+            <objects>
+                <viewController id="y4e-66-uxX" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PSM-Jg-IaG">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kFC-2x-IRw">
+                                <rect key="frame" x="150" y="608" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="Kt7-P3-2eJ" kind="presentation" id="vCu-li-fqg"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ttX-CE-QXb">
+                                <rect key="frame" x="119" y="38" width="240" height="538"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I spent several minutes talking him down. I could hear the terror in his voice. Something scares him greatly about the Glaring. When he had calmed, we talked. "I told ya sir, I knows nothin'." "So you have said before. So, what do you want?" "Sir?" "I know you know about what I am looking for. If I do something for you, will you do me a favor back?" "Sir! would would help a lowly shrew?" "We are not cat and shrew here on the streets, but brothers. Brothers help each other out. If I do you a favor, you do me one back. Nothing wrong with that, eh?" "Sir..." He looked relieved. "The concern ya show for me, that eases me heart. I call that a favor enough." Strange. Typically if offered a favor shrews take that as a chance to get something shiny. "I'll tells ya what I knows. I'll warns yas, tis not much. Start at ta entrance to ta sewers near the western wall. That is where ya need ta look." "Thank you. You have helped me greatly." I got up to leave. "One more thin'. Beware of Brutus." "Thanks. I'll be sure to pay you back one day, Mr. Thalm."</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="NVE-eu-e7W"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="64T-p7-bV3" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6207" y="-499"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="89A-Pf-TUK">
+            <objects>
+                <viewController id="Kt7-P3-2eJ" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="A2x-eB-bsx">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ZGf-QJ-YAs">
+                                <rect key="frame" x="16" y="42" width="240" height="332"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I made it to the sewer entrance  within an hour. Upon entering, I nearly gagged from the smell. This is most definitely the sewers, I thought. I looked around. A greenish haze wafted everywhere, reducing visibility. The walls, from what I could see, were covered in various molds and slime. The sewers were a place I visit only with specific goals in mind. Mukrats, gangs of large, nasty rodents lurk under here. The streets of the streets. When my eyes adjusted to the dark as best they can with the fog, I saw two paths before me, one to the left and one to the right. Now, which way to go?</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9f5-Ji-LoN">
+                                <rect key="frame" x="162" y="470" width="51" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Go Left"/>
+                                <connections>
+                                    <segue destination="EYv-qn-Al8" kind="presentation" id="Db9-8w-Equ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VRQ-RB-glx">
+                                <rect key="frame" x="157" y="566" width="60" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Go Right"/>
+                                <connections>
+                                    <segue destination="nC9-Gy-tYQ" kind="presentation" id="5Md-2Q-xUA"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="wdK-kJ-Xe2"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Xyy-4Z-X8P" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="7087.1999999999998" y="-500.59970014992507"/>
+        </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="Gef-Ax-KPL"/>
+        <segue reference="uTv-Nk-ipA"/>
+    </inferredMetricsTieBreakers>
 </document>
