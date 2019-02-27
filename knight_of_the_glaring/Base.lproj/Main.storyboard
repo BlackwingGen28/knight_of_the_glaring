@@ -33,7 +33,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1143" y="254"/>
+            <point key="canvasLocation" x="-1386" y="81"/>
         </scene>
         <!--View Controller Two-->
         <scene sceneID="7cR-yN-8xy">
@@ -213,7 +213,7 @@
                                 <rect key="frame" x="119" y="41" width="240" height="534"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">After my drink, I began again. "I'm here about an important mission." "Obviously, tis the only time ya come in. Now, what do ya want ta know?" "The Glaring is recruiting a new Knight and -." "Woah there! Imma not get involved with ta Glaring now. I don't think I can help ya this time. Sorry Gee." "Thanks anyway. See ya Ted." As I got up to leave, Ted cleared his throat. "Actually..." I gave him a quizical look. "Recently, Thalm over there has been spewin' some crazy bits lately. From what i've heard, it might be revelant to ya inquiry." Ted pointed to a shrew who sat alone in the corner. "Thanks, Ted." Ted grunted, a look of unease on his face. I walked over to the shrew in the corner. As I approached, he gave me a weary look. "Thalm?" I asked. Thalm's nose twitched when I spoke, like someone who heard nails scratching on a chalkboard. "Aye." was his response. I sat with him, which sent another subtle shiver through his body. "Sorry mate. Had some bad experiences with cats before. What do ya be needing?"</mutableString>
+                                <string key="text">After my drink, I began again. "I'm here about an important mission." "Obviously, tis the only time ya come in. Now, what do ya want ta know?" "The Glaring is recruiting a new Knight and -." "Woah there! Imma not get involved with ta Glaring now. I don't think I can help ya this time. Sorry Gee." "Thanks anyway. See ya Ted." As I got up to leave, Ted cleared his throat. "Actually..." I gave him a quizical look. "Recently, Thalm over there has been spewin' some crazy bits lately. From what i've heard, it might be revelant to ya inquiry." Ted pointed to a shrew who sat alone in the corner. "Thanks, Ted." Ted grunted, a look of unease on his face. I walked over to the shrew in the corner. As I approached, he gave me a weary look. "Thalm?" I asked. Thalm's nose twitched when I spoke, like someone who heard nails scratching on a chalkboard. "Aye." was his response. I sat with him, which sent another subtle shiver through his body. "Sorry mate. Had some bad experiences with cats before. What do ya be needing?"</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -246,7 +246,7 @@
                                 <rect key="frame" x="16" y="45" width="240" height="305"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">"I am on a mission to find a certain whistle-"                                              "NO! I knows nothin' 'bout that mister! Please be on ya way!" The fear in his voice and actions suggest he might know something. Before I could ask further, he got up and brisk walked his way out of the "door". I got up and followed. He weaved and bobbed through the streets, but I easily kept pace. Soon, he was cornered. He shrunk against the brick wall. "Please sir, I knows nothin'. Please!" I need this information. What do I do?</mutableString>
+                                <string key="text">"I am on a mission to find a certain whistle-"                                              "NO! I knows nothin' 'bout that mister! Please be on ya way!" The fear in his voice and actions suggest he might know something. Before I could ask further, he got up and brisk walked his way out of the "door". I got up and followed. He weaved and bobbed through the streets, but I easily kept pace. Soon, he was cornered. He shrunk against the brick wall. "Please sir, I knows nothin'. Please!" I need this information. What do I do?</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -287,7 +287,7 @@
                                 <rect key="frame" x="119" y="51" width="240" height="532"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">"I believe you do know of what I want. Now, how best to get you to talk..." I unsheathed my claws, my favorite tool for information gathering on stubborn sources. Thalm eyed my paw with fear. "No, sir! Please no!" I began the questioning. Thal lasted a full minute before the scratches were too much. "Please sir... no more!" "Then tell me what you know, or I bring out my LongClaw." I patted my rapier. The fear in his eyes told me he was ready. "Okay, okay. I'll tells ya. Western side of the city. In ta sewers. Look in there. tat is all I knows, I swear!" I could tell he wasn't lying. "See? that wasn't so hard now, was it? Take care of yourself, Mr. Thalm." I turned on the heel of my paw. As I left the alleyway, behind me I heard Thalm mumble. "Say hi to Brutus for me, sir."</mutableString>
+                                <string key="text">"I believe you do know of what I want. Now, how best to get you to talk..." I unsheathed my claws, my favorite tool for information gathering on stubborn sources. Thalm eyed my paw with fear. "No, sir! Please no!" I began the questioning. Thal lasted a full minute before the scratches were too much. "Please sir... no more!" "Then tell me what you know, or I bring out my LongClaw." I patted my rapier. The fear in his eyes told me he was ready. "Okay, okay. I'll tells ya. Western side of the city. In ta sewers. Look in there. tat is all I knows, I swear!" I could tell he wasn't lying. "See? that wasn't so hard now, was it? Take care of yourself, Mr. Thalm." I turned on the heel of my paw. As I left the alleyway, behind me I heard Thalm mumble. "Say hi to Brutus for me, sir."</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -320,7 +320,7 @@
                                 <rect key="frame" x="16" y="51" width="240" height="420"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I made it to the sewer entrance  within an hour. Upon entering, I nearly gagged from the smell. This is most definitely the sewers, I thought. I looked around. A greenish haze wafted everywhere, reducing visibility. The walls, from what I could see, were covered in various molds and slime. The sewers were a place I visit only with specific goals in mind. Mukrats, gangs of large, nasty rodents lurk under here. The streets of the streets. When my eyes adjusted to the dark as best they can with the fog, I saw two paths before me, one to the left and one to the right. Now, which way to go?</mutableString>
+                                <string key="text">I made it to the sewer entrance  within an hour. Upon entering, I nearly gagged from the smell. This is most definitely the sewers, I thought. I looked around. A greenish haze wafted everywhere, reducing visibility. The walls, from what I could see, were covered in various molds and slime. The sewers were a place I visit only with specific goals in mind. Mukrats, gangs of large, nasty rodents lurk under here. The streets of the streets. When my eyes adjusted to the dark as best they can with the fog, I saw two paths before me, one to the left and one to the right. Now, which way to go?</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -361,7 +361,7 @@
                                 <rect key="frame" x="67" y="74" width="240" height="350.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I walked down the path to the right. As I journeyed inward, the darkness deepened. A sense of dread passed over me. Perhaps I should go back... Before I could decide, a noise made me jump. Terror, a rare feeling for me, filled my heart. Something was here, and it knew I was here. I saw eyes, yellow and dangerous. Fear froze me in place. I knew the animal these eyes belonged to- a dog. A feral dog. From the sounds, it was a German Shepard. Way to big for me to fight. He barked, and pounced on me. I was done for. His fangs bit into my figure. Pain filled all my senses. My vision started to fade. As I died, one name came to my mind. Brutus.</mutableString>
+                                <string key="text">I walked down the path to the right. As I journeyed inward, the darkness deepened. A sense of dread passed over me. Perhaps I should go back... Before I could decide, a noise made me jump. Terror, a rare feeling for me, filled my heart. Something was here, and it knew I was here. I saw eyes, yellow and dangerous. Fear froze me in place. I knew the animal these eyes belonged to- a dog. A feral dog. From the sounds, it was a German Shepard. Way to big for me to fight. He barked, and pounced on me. I was done for. His fangs bit into my figure. Pain filled all my senses. My vision started to fade. As I died, one name came to my mind. Brutus.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -394,7 +394,7 @@
                                 <rect key="frame" x="119" y="51" width="240" height="464"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I walked down the path to the left. After a few minutes, I saw a flicker of orange light in the distance. A fire. The damp environment made my fur feel too heavy and gross, and took what little heat I made away. The fire would be welcomed. As I apporached, I noticed shadows cast by the fire. Mukrats, I thought. Had to be. My guess was correct. Three Mukrats crowded around the small fire. Their fur caked with grim from living in the sewers for years. Yellowed, jagged fangs protruded from their crooked snouts. Ugly, vile creatures, and with a reputation for being vicious. My foot slid a little on a particularly slimy spot, making a noise that immediately drew the rat's attention. They bared their fangs and stalked toward me. I felt confident I could beat them with relative ease, but they may take a peaceful approach should I choose to bargain. What to do?</mutableString>
+                                <string key="text">I walked down the path to the left. After a few minutes, I saw a flicker of orange light in the distance. A fire. The damp environment made my fur feel too heavy and gross, and took what little heat I made away. The fire would be welcomed. As I apporached, I noticed shadows cast by the fire. Mukrats, I thought. Had to be. My guess was correct. Three Mukrats crowded around the small fire. Their fur caked with grim from living in the sewers for years. Yellowed, jagged fangs protruded from their crooked snouts. Ugly, vile creatures, and with a reputation for being vicious. My foot slid a little on a particularly slimy spot, making a noise that immediately drew the rat's attention. They bared their fangs and stalked toward me. I felt confident I could beat them with relative ease, but they may take a peaceful approach should I choose to bargain. What to do?</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -435,7 +435,7 @@
                                 <rect key="frame" x="16" y="20" width="289" height="456"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Desparately I looked around for something I could use to bargain with. My eyes fell to a mess of rope, sticks and rocks. It looked like they were trying to make a net of some kind. "The ropes," I said. "You trying to make a net?" The Mukrats stopped their advance. "Yess." one said in a raspy voice, half whistle due to his overly large teeth. "We are having trouble with a fishing net. Our claws are too long. But what does that matter?" "I can make that net for you, for a price, of course. My claws are retractable." "Oh? You would do that for usss? And what, might I assssk, isss your priccce?" "Well, for starters, you let me live. I'll make the best design I can if you also answer a question for me." "That'ssss all? Well boys, we have a reasonable gentleman here. What should we do?" "We need thessse netsss for the fishesss that sswim in this water. perhaps..." They huddled close together, whispering to one another.</mutableString>
+                                <string key="text">Desparately I looked around for something I could use to bargain with. My eyes fell to a mess of rope, sticks and rocks. It looked like they were trying to make a net of some kind. "The ropes," I said. "You trying to make a net?" The Mukrats stopped their advance. "Yess." one said in a raspy voice, half whistle due to his overly large teeth. "We are having trouble with a fishing net. Our claws are too long. But what does that matter?" "I can make that net for you, for a price, of course. My claws are retractable." "Oh? You would do that for usss? And what, might I assssk, isss your priccce?" "Well, for starters, you let me live. I'll make the best design I can if you also answer a question for me." "That'ssss all? Well boys, we have a reasonable gentleman here. What should we do?" "We need thessse netsss for the fishesss that sswim in this water. perhaps..." They huddled close together, whispering to one another.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -468,7 +468,7 @@
                                 <rect key="frame" x="81" y="20" width="278" height="567.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">After a few moments, they reached a conclusion. "We accept your offer, stranger. First, the netsss." I relaxed a little, and began the process of weaving the ropes. Soon, a neat, weighted net was made. The Mukratsss, er, Mukrats were delighted by the construct. "These are indeed excellent netsss. You just made our livesss easier." "Let me explain a little on proper care for these nets, else they not last you very long." I explained the proper care for fishing nets. "How would you know thisss, stranger?" "I learned from previous experiences. A long time ago." This was true, I was a fish poacher before I worked for the council as a problem solver. "Well, a dealsss a deal." rasped the Mukrats. What is it you wanted to asssk?" I explained why I entered the sewers. "The Glaring? Those legendsss? What would they want with thisss placcce?" Another Mukrat chimed in, "I think I saw something ssshiny down this way a bit." he guestured toward the other entrance to this tunnel. "Perhapsss that is what ou sseek?" I thanked them and got up. "A moment, stranger. I'm sure you know about Brutus." I looked at them. "he patrols those passages. We ssshall tell you how to best deal with Brutus." They told me the secret to handling Brutus. I thanked them again, and went on my way.</mutableString>
+                                <string key="text">After a few moments, they reached a conclusion. "We accept your offer, stranger. First, the netsss." I relaxed a little, and began the process of weaving the ropes. Soon, a neat, weighted net was made. The Mukratsss, er, Mukrats were delighted by the construct. "These are indeed excellent netsss. You just made our livesss easier." "Let me explain a little on proper care for these nets, else they not last you very long." I explained the proper care for fishing nets. "How would you know thisss, stranger?" "I learned from previous experiences. A long time ago." This was true, I was a fish poacher before I worked for the council as a problem solver. "Well, a dealsss a deal." rasped the Mukrats. What is it you wanted to asssk?" I explained why I entered the sewers. "The Glaring? Those legendsss? What would they want with thisss placcce?" Another Mukrat chimed in, "I think I saw something ssshiny down this way a bit." he guestured toward the other entrance to this tunnel. "Perhapsss that is what ou sseek?" I thanked them and got up. "A moment, stranger. I'm sure you know about Brutus." I looked at them. "he patrols those passages. We ssshall tell you how to best deal with Brutus." They told me the secret to handling Brutus. I thanked them again, and went on my way.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -509,7 +509,7 @@
                                 <rect key="frame" x="16" y="20" width="324" height="544"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I followed the path the Mukrats pointed out for several minutes. When I thought it couldn't get any darker, the path openned up to a larger room. Within jumping distance to the floor on the other side of the room was a grate. Moonlight streamed in throught the bars. Judging from what I can see, I can use that grate as an exit if needed. ahead of me, a something small glittered in the light, caughting my attention. The Whistle! "Beware Brutus." came to my mind, as I saw a figure laying next to the whistle. A large German Shepard. Brutus. Remembering the advice of the Mukrats, I stepped forward with confidence. Brutus arose immediately, looking at me with yellow eyes. He ran toward me with a bark. I stood, ready for him. He raced toward me, and my instincts said to flee, but instead I raised my paws to my sides. Wait. Wait. Wait. Now! When Brutus was almost on top of me, I sprang up, which startled the big guy. I put my paw on his head, spun myself around, seated myself on his neck. Then I did what the Mukrats said. I petted the boy right behind his ears. Brutus stopped in his tracks. I kept petting, until Brutus let ot a noise more befitting a large, fluffy teddy bear rather than a nasty brute. Something hit me: Brutus, like myself, was abandoned. </mutableString>
+                                <string key="text">I followed the path the Mukrats pointed out for several minutes. When I thought it couldn't get any darker, the path openned up to a larger room. Within jumping distance to the floor on the other side of the room was a grate. Moonlight streamed in throught the bars. Judging from what I can see, I can use that grate as an exit if needed. ahead of me, a something small glittered in the light, caughting my attention. The Whistle! "Beware Brutus." came to my mind, as I saw a figure laying next to the whistle. A large German Shepard. Brutus. Remembering the advice of the Mukrats, I stepped forward with confidence. Brutus arose immediately, looking at me with yellow eyes. He ran toward me with a bark. I stood, ready for him. He raced toward me, and my instincts said to flee, but instead I raised my paws to my sides. Wait. Wait. Wait. Now! When Brutus was almost on top of me, I sprang up, which startled the big guy. I put my paw on his head, spun myself around, seated myself on his neck. Then I did what the Mukrats said. I petted the boy right behind his ears. Brutus stopped in his tracks. I kept petting, until Brutus let ot a noise more befitting a large, fluffy teddy bear rather than a nasty brute. Something hit me: Brutus, like myself, was abandoned. </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -534,7 +534,7 @@
                                 <rect key="frame" x="69" y="20" width="290" height="485"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I pet Brutus for a long time, something he had missed from his time with his owner. Once he was pleased, I dropped down from his neck. He turned to face me, and, instead of biting off my face, he licked me. His breath was terrible. Putrid even. I didn't mind. Brutus was genuinely happy. "Good boy Brutus." I said to him. "Now, lay down." Thud. Brutus dropped on the floor and heaved a heavy sigh. I walked over to the whistle and picked it up. I turned and headed for the grate. Brutus lifted his head to watch me leave. "I'll visit you soon, Brutus!" I called to him. He wimpered, a truly heartbreaking sound. "Take care, buddy!" A sad howl sounded from below. I will make sure I revisit Brutus. Now, the first mission is complete, I have the whistle, now what? I tried blowing into it, but no sound came out. I looked inside the pipe, and pulled out a roll of paper. On the paper was instructions. "Outside the western gate at midnight, blow the whistle. Wait there." I looked back at the grate one last time, then made haste to the gate.</mutableString>
+                                <string key="text">I pet Brutus for a long time, something he had missed from his time with his owner. Once he was pleased, I dropped down from his neck. He turned to face me, and, instead of biting off my face, he licked me. His breath was terrible. Putrid even. I didn't mind. Brutus was genuinely happy. "Good boy Brutus." I said to him. "Now, lay down." Thud. Brutus dropped on the floor and heaved a heavy sigh. I walked over to the whistle and picked it up. I turned and headed for the grate. Brutus lifted his head to watch me leave. "I'll visit you soon, Brutus!" I called to him. He wimpered, a truly heartbreaking sound. "Take care, buddy!" A sad howl sounded from below. I will make sure I revisit Brutus. Now, the first mission is complete, I have the whistle, now what? I tried blowing into it, but no sound came out. I looked inside the pipe, and pulled out a roll of paper. On the paper was instructions. "Outside the western gate at midnight, blow the whistle. Wait there." I looked back at the grate one last time, then made haste to the gate.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -542,6 +542,9 @@
                                 <rect key="frame" x="152" y="587" width="71" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue.."/>
+                                <connections>
+                                    <segue destination="FjJ-Yy-NV8" kind="presentation" id="xIA-hz-gKc"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -551,6 +554,164 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Not-Yw-Lpn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="12694" y="1245"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="YJ3-uu-8eW">
+            <objects>
+                <viewController id="FjJ-Yy-NV8" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="CNZ-6C-tvo">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="dFF-ub-hRi">
+                                <rect key="frame" x="16" y="20" width="309" height="471"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Once at the gate, I check the time. Judging by the moon's height, it is about midnight. After confirming this, I took out the whistle, and with a deep breath, and let a long, shrill cry from the whistle. Then, I sat and waited. And waited. And waited. The moon showed that I waited for 2 hours. Suddenly, a sharp pain arched its way from the back of my head, and my vision went black.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oik-ht-L9C">
+                                <rect key="frame" x="152" y="599" width="71" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue.."/>
+                                <connections>
+                                    <segue destination="llN-tP-Pdy" kind="presentation" id="wvB-XS-oLv"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="EgV-MD-5MX"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bnB-B0-1ix" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="13749.6" y="1244.527736131934"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="AQ6-Rs-VK7">
+            <objects>
+                <viewController id="5QH-P7-530" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="AAm-2c-s9r">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kyl-zD-amk">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="x97-iW-PfO" kind="presentation" id="KqM-mf-iKG"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="ake-Qz-fpF"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VV7-Fx-bvs" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="15110" y="526"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="jpr-qe-r9X">
+            <objects>
+                <viewController id="x97-iW-PfO" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8j9-9u-o7a">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7lr-nc-wPQ">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="presentation" id="hjB-a3-ntb"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="VWM-TH-2TS"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2lj-Q5-JKO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="16214" y="526"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="PxT-VK-Rcs">
+            <objects>
+                <viewController id="eMO-x9-b7e" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ucM-RU-UK7">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nz1-36-osF">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="41G-FR-6AU" kind="presentation" id="E6y-S2-TmK"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="4fO-hM-dGK"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vJ0-JV-FJm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="15110" y="-156"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="gfN-Cd-URQ">
+            <objects>
+                <viewController id="llN-tP-Pdy" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="w96-P6-dtg">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a1n-Da-HmI">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="4ti-Hm-WJC" kind="presentation" id="Xww-JR-AQ8"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="2rR-ar-JER"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nGp-QB-tZy" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="15110" y="1245"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="90i-jI-tiA">
+            <objects>
+                <viewController id="4ti-Hm-WJC" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="CPU-5J-YDl">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vSw-gQ-U89">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="presentation" id="xsi-Xs-CJC"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="Ilx-bg-nOV"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="73a-80-Pjt" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="16214" y="1245"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="wWt-uv-vEF">
@@ -564,7 +725,7 @@
                                 <rect key="frame" x="16" y="40" width="314" height="590"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">It was dark, but the campfire's light made it easier to see the ground. I drew my rapier, LongClaw, and slew the Mukrats. Without as much as a scratch, the battle was over. I sheathed LongClaw, and warmed myself by the fire. Once I was warmed, I continued down the path. After some wandering, the pathway opened up to a larger room. there was a grate within jumping distance, and the bars look wide enough for me to fit. Moonlight seeped into the space. In the center, something metalic reflected the moonlight. The Whistle, I thought. Just before I approached, I noticed a large shape next to the glimmer. Brutus, I thought. He appeared to be asleep. Without much of an option, I used stealth to approach the whistle. Slowly, steadyily, all to avoid waking the beast. With patience and skill, I bent over and picked up the whistle, with Brutus still snoozing. I crept toward the grate, all I needed was to escape. About half way there, my foot kicked a pebble. I froze. Brutus rose from his slumber, eyes dead on me. I bolted for the grate, Brutus right behind me. I jumped, caught the grate, and pulled myself through with haste. I felt Brutus' teeth just miss my tail. In my hurry, LongClaw got caught in the grate, and my momentum tore my ragged holster. LongClaw fell back into the room. With how Brutus reacted, he wasn't giving it back. Saddened, I left behind my weapon.</mutableString>
+                                <string key="text">It was dark, but the campfire's light made it easier to see the ground. I drew my rapier, LongClaw, and slew the Mukrats. Without as much as a scratch, the battle was over. I sheathed LongClaw, and warmed myself by the fire. Once I was warmed, I continued down the path. After some wandering, the pathway opened up to a larger room. there was a grate within jumping distance, and the bars look wide enough for me to fit. Moonlight seeped into the space. In the center, something metalic reflected the moonlight. The Whistle, I thought. Just before I approached, I noticed a large shape next to the glimmer. Brutus, I thought. He appeared to be asleep. Without much of an option, I used stealth to approach the whistle. Slowly, steadyily, all to avoid waking the beast. With patience and skill, I bent over and picked up the whistle, with Brutus still snoozing. I crept toward the grate, all I needed was to escape. About half way there, my foot kicked a pebble. I froze. Brutus rose from his slumber, eyes dead on me. I bolted for the grate, Brutus right behind me. I jumped, caught the grate, and pulled myself through with haste. I felt Brutus' teeth just miss my tail. In my hurry, LongClaw got caught in the grate, and my momentum tore my ragged holster. LongClaw fell back into the room. With how Brutus reacted, he wasn't giving it back. Saddened, I left behind my weapon.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -597,7 +758,7 @@
                                 <rect key="frame" x="119" y="36" width="240" height="470"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I walked down the path to the left. After a few minutes, I saw a flicker of orange light in the distance. A fire. The damp environment made my fur feel too heavy and gross, and took what little heat I made away. The fire would be welcomed. As I apporached, I noticed shadows cast by the fire. Mukrats, I thought. Had to be. My guess was correct. Three Mukrats crowded around the small fire. Their fur caked with grim from living in the sewers for years. Yellowed, jagged fangs protruded from their crooked snouts. Ugly, vile creatures, and with a reputation for being vicious. My foot slid a little on a particularly slimy spot, making a noise that immediately drew the rat's attention. They bared their fangs and stalked toward me. I felt confident I could beat them with relative ease, but they may take a peaceful approach should I choose to bargain. What to do?</mutableString>
+                                <string key="text">I walked down the path to the left. After a few minutes, I saw a flicker of orange light in the distance. A fire. The damp environment made my fur feel too heavy and gross, and took what little heat I made away. The fire would be welcomed. As I apporached, I noticed shadows cast by the fire. Mukrats, I thought. Had to be. My guess was correct. Three Mukrats crowded around the small fire. Their fur caked with grim from living in the sewers for years. Yellowed, jagged fangs protruded from their crooked snouts. Ugly, vile creatures, and with a reputation for being vicious. My foot slid a little on a particularly slimy spot, making a noise that immediately drew the rat's attention. They bared their fangs and stalked toward me. I felt confident I could beat them with relative ease, but they may take a peaceful approach should I choose to bargain. What to do?</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -638,7 +799,7 @@
                                 <rect key="frame" x="16" y="32" width="317" height="534"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">It was dark, but the campfire's light made it easier to see the ground. I drew my rapier, LongClaw, and slew the Mukrats. Without as much as a scratch, the battle was over. I sheathed LongClaw, and warmed myself by the fire. Once I was warmed, I continued down the path. After some wandering, the pathway opened up to a larger room. there was a grate within jumping distance, and the bars look wide enough for me to fit. Moonlight seeped into the space. In the center, something metalic reflected the moonlight. The Whistle, I thought. Just before I approached, I noticed a large shape next to the glimmer. Brutus, I thought. He appeared to be asleep. Without much of an option, I used stealth to approach the whistle. Slowly, steadyily, all to avoid waking the beast. With patience and skill, I bent over and picked up the whistle, with Brutus still snoozing. I crept toward the grate, all I needed was to escape. About half way there, my foot kicked a pebble. I froze. Brutus rose from his slumber, eyes dead on me. I bolted for the grate, Brutus right behind me. I jumped, caught the grate, and pulled myself through with haste. I felt Brutus' teeth just miss my tail. In my hurry, LongClaw got caught in the grate, and my momentum tore my ragged holster. LongClaw fell back into the room. With how Brutus reacted, he wasn't giving it back. Saddened, I left behind my weapon.</mutableString>
+                                <string key="text">It was dark, but the campfire's light made it easier to see the ground. I drew my rapier, LongClaw, and slew the Mukrats. Without as much as a scratch, the battle was over. I sheathed LongClaw, and warmed myself by the fire. Once I was warmed, I continued down the path. After some wandering, the pathway opened up to a larger room. there was a grate within jumping distance, and the bars look wide enough for me to fit. Moonlight seeped into the space. In the center, something metalic reflected the moonlight. The Whistle, I thought. Just before I approached, I noticed a large shape next to the glimmer. Brutus, I thought. He appeared to be asleep. Without much of an option, I used stealth to approach the whistle. Slowly, steadyily, all to avoid waking the beast. With patience and skill, I bent over and picked up the whistle, with Brutus still snoozing. I crept toward the grate, all I needed was to escape. About half way there, my foot kicked a pebble. I froze. Brutus rose from his slumber, eyes dead on me. I bolted for the grate, Brutus right behind me. I jumped, caught the grate, and pulled myself through with haste. I felt Brutus' teeth just miss my tail. In my hurry, LongClaw got caught in the grate, and my momentum tore my ragged holster. LongClaw fell back into the room. With how Brutus reacted, he wasn't giving it back. Saddened, I left behind my weapon.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -671,10 +832,18 @@
                                 <rect key="frame" x="71" y="37" width="288" height="522"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obiedient to the note, I still waited. Smack! something hit the back of my head, and I fell, unconcious.</mutableString>
+                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obedient to the note, I still waited. Smack! Something hit the back of my head, and I fell, unconcious.</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qOe-ai-4md">
+                                <rect key="frame" x="150" y="567" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="eMO-x9-b7e" kind="presentation" id="F2Z-I7-9hI"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Q6k-ZJ-dDn"/>
@@ -696,10 +865,18 @@
                                 <rect key="frame" x="64" y="20" width="295" height="483"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obiedient to the note, I still waited. Smack! something hit the back of my head, and I fell, unconcious.</mutableString>
+                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obedient to the note, I still waited. Smack! Something hit the back of my head, and I fell, unconcious.</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y12-xI-JoO">
+                                <rect key="frame" x="150" y="570" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="5QH-P7-530" kind="presentation" id="q5u-Lq-Koc"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="gH9-mB-Q0O"/>
@@ -721,7 +898,7 @@
                                 <rect key="frame" x="16" y="40" width="240" height="484"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Desparately I looked around for something I could use to bargain with. My eyes fell to a mess of rope, sticks and rocks. It looked like they were trying to make a net of some kind. "The ropes," I said. "You trying to make a net?" The Mukrats stopped their advance. "Yess." one said in a raspy voice, half whistle due to his overly large teeth. "We are having trouble with a fishing net. Our claws are too long. But what does that matter?" "I can make that net for you, for a price, of course. My claws are retractable." "Oh? You would do that for usss? And what, might I assssk, isss your priccce?" "Well, for starters, you let me live. I'll make the best design I can if you also answer a question for me." "That'ssss all? Well boys, we have a reasonable gentleman here. What should we do?" "We need thessse netsss for the fishesss that sswim in this water. perhaps..." They huddled close together, whispering to one another.</mutableString>
+                                <string key="text">Desparately I looked around for something I could use to bargain with. My eyes fell to a mess of rope, sticks and rocks. It looked like they were trying to make a net of some kind. "The ropes," I said. "You trying to make a net?" The Mukrats stopped their advance. "Yess." one said in a raspy voice, half whistle due to his overly large teeth. "We are having trouble with a fishing net. Our claws are too long. But what does that matter?" "I can make that net for you, for a price, of course. My claws are retractable." "Oh? You would do that for usss? And what, might I assssk, isss your priccce?" "Well, for starters, you let me live. I'll make the best design I can if you also answer a question for me." "That'ssss all? Well boys, we have a reasonable gentleman here. What should we do?" "We need thessse netsss for the fishesss that sswim in this water. perhaps..." They huddled close together, whispering to one another.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -754,7 +931,7 @@
                                 <rect key="frame" x="66" y="35" width="293" height="568"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">After a few moments, they reached a conclusion. "We accept your offer, stranger. First, the netsss." I relaxed a little, and began the process of weaving the ropes. Soon, a neat, weighted net was made. The Mukratsss, er, Mukrats were delighted by the construct. "These are indeed excellent netsss. You just made our livesss easier." "Let me explain a little on proper care for these nets, else they not last you very long." I explained the proper care for fishing nets. "How would you know thisss, stranger?" "I learned from previous experiences. A long time ago." This was true, I was a fish poacher before I worked for the council as a problem solver. "Well, a dealsss a deal." rasped the Mukrats. What is it you wanted to asssk?" I explained why I entered the sewers. "The Glaring? Those legendsss? What would they want with thisss placcce?" Another Mukrat chimed in, "I think I saw something ssshiny down this way a bit." he guestured toward the other entrance to this tunnel. "Perhapsss that is what ou sseek?" I thanked them and got up. "A moment, stranger. I'm sure you know about Brutus." I looked at them. "he patrols those passages. We ssshall tell you how to best deal with Brutus." They told me the secret to handling Brutus. I thanked them again, and went on my way.</mutableString>
+                                <string key="text">After a few moments, they reached a conclusion. "We accept your offer, stranger. First, the netsss." I relaxed a little, and began the process of weaving the ropes. Soon, a neat, weighted net was made. The Mukratsss, er, Mukrats were delighted by the construct. "These are indeed excellent netsss. You just made our livesss easier." "Let me explain a little on proper care for these nets, else they not last you very long." I explained the proper care for fishing nets. "How would you know thisss, stranger?" "I learned from previous experiences. A long time ago." This was true, I was a fish poacher before I worked for the council as a problem solver. "Well, a dealsss a deal." rasped the Mukrats. What is it you wanted to asssk?" I explained why I entered the sewers. "The Glaring? Those legendsss? What would they want with thisss placcce?" Another Mukrat chimed in, "I think I saw something ssshiny down this way a bit." he guestured toward the other entrance to this tunnel. "Perhapsss that is what ou sseek?" I thanked them and got up. "A moment, stranger. I'm sure you know about Brutus." I looked at them. "he patrols those passages. We ssshall tell you how to best deal with Brutus." They told me the secret to handling Brutus. I thanked them again, and went on my way.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -787,7 +964,7 @@
                                 <rect key="frame" x="39" y="20" width="275" height="589"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I followed the path the Mukrats pointed out for several minutes. When I thought it couldn't get any darker, the path openned up to a larger room. Within jumping distance to the floor on the other side of the room was a grate. Moonlight streamed in throught the bars. Judging from what I can see, I can use that grate as an exit if needed. ahead of me, a something small glittered in the light, caughting my attention. The Whistle! "Beware Brutus." came to my mind, as I saw a figure laying next to the whistle. A large German Shepard. Brutus. Remembering the advice of the Mukrats, I stepped forward with confidence. Brutus arose immediately, looking at me with yellow eyes. He ran toward me with a bark. I stood, ready for him. He raced toward me, and my instincts said to flee, but instead I raised my paws to my sides. Wait. Wait. Wait. Now! When Brutus was almost on top of me, I sprang up, which startled the big guy. I put my paw on his head, spun myself around, seated myself on his neck. Then I did what the Mukrats said. I petted the boy right behind his ears. Brutus stopped in his tracks. I kept petting, until Brutus let ot a noise more befitting a large, fluffy teddy bear rather than a nasty brute. Something hit me: Brutus, like myself, was abandoned. </mutableString>
+                                <string key="text">I followed the path the Mukrats pointed out for several minutes. When I thought it couldn't get any darker, the path openned up to a larger room. Within jumping distance to the floor on the other side of the room was a grate. Moonlight streamed in throught the bars. Judging from what I can see, I can use that grate as an exit if needed. ahead of me, a something small glittered in the light, caughting my attention. The Whistle! "Beware Brutus." came to my mind, as I saw a figure laying next to the whistle. A large German Shepard. Brutus. Remembering the advice of the Mukrats, I stepped forward with confidence. Brutus arose immediately, looking at me with yellow eyes. He ran toward me with a bark. I stood, ready for him. He raced toward me, and my instincts said to flee, but instead I raised my paws to my sides. Wait. Wait. Wait. Now! When Brutus was almost on top of me, I sprang up, which startled the big guy. I put my paw on his head, spun myself around, seated myself on his neck. Then I did what the Mukrats said. I petted the boy right behind his ears. Brutus stopped in his tracks. I kept petting, until Brutus let ot a noise more befitting a large, fluffy teddy bear rather than a nasty brute. Something hit me: Brutus, like myself, was abandoned. </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -820,7 +997,7 @@
                                 <rect key="frame" x="89" y="34" width="270" height="530"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I pet Brutus for a long time, something he had missed from his time with his owner. Once he was pleased, I dropped down from his neck. He turned to face me, and, instead of biting off my face, he licked me. His breath was terrible. Putrid even. I didn't mind. Brutus was genuinely happy. "Good boy Brutus." I said to him. "Now, lay down." Thud. Brutus dropped on the floor and heaved a heavy sigh. I walked over to the whistle and picked it up. I turned and headed for the grate. Brutus lifted his head to watch me leave. "I'll visit you soon, Brutus!" I called to him. He wimpered, a truly heartbreaking sound. "Take care, buddy!" A sad howl sounded from below. I will make sure I revisit Brutus. Now, the first mission is complete, I have the whistle, now what? I tried blowing into it, but no sound came out. I looked inside the pipe, and pulled out a roll of paper. On the paper was instructions. "Outside the western gate at midnight, blow the whistle. Wait there." I looked back at the grate one last time, then made haste to the gate.</mutableString>
+                                <string key="text">I pet Brutus for a long time, something he had missed from his time with his owner. Once he was pleased, I dropped down from his neck. He turned to face me, and, instead of biting off my face, he licked me. His breath was terrible. Putrid even. I didn't mind. Brutus was genuinely happy. "Good boy Brutus." I said to him. "Now, lay down." Thud. Brutus dropped on the floor and heaved a heavy sigh. I walked over to the whistle and picked it up. I turned and headed for the grate. Brutus lifted his head to watch me leave. "I'll visit you soon, Brutus!" I called to him. He wimpered, a truly heartbreaking sound. "Take care, buddy!" A sad howl sounded from below. I will make sure I revisit Brutus. Now, the first mission is complete, I have the whistle, now what? I tried blowing into it, but no sound came out. I looked inside the pipe, and pulled out a roll of paper. On the paper was instructions. "Outside the western gate at midnight, blow the whistle. Wait there." I looked back at the grate one last time, then made haste to the gate.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -828,6 +1005,9 @@
                                 <rect key="frame" x="150" y="596" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="o3O-0C-1FT" kind="presentation" id="ydG-aU-aGn"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -837,6 +1017,122 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="MXD-X6-2Z3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="12694" y="-887"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="1nC-Eb-aJs">
+            <objects>
+                <viewController id="o3O-0C-1FT" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ipw-O6-UQM">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="qHo-0X-uad">
+                                <rect key="frame" x="16" y="20" width="295" height="513"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Once at the gate, I check the time. Judging by the moon's height, it is about midnight. After confirming this, I took out the whistle, and with a deep breath, and let a long, shrill cry from the whistle. Then, I sat and waited. And waited. And waited. The moon showed that I waited for 2 hours. Suddenly, a sharp pain arched its way from the back of my head, and my vision went black.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OZb-GO-doj">
+                                <rect key="frame" x="150" y="580" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Continue..."/>
+                                <connections>
+                                    <segue destination="V1A-Qx-1TU" kind="presentation" id="JTt-cK-NnJ"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="wKV-dN-4fV"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nT8-XA-ssQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="13749.6" y="-887.40629685157433"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="jb2-2h-uto">
+            <objects>
+                <viewController id="V1A-Qx-1TU" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="zlK-aC-5jz">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pFF-g2-liv">
+                                <rect key="frame" x="164" y="591" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="gK1-A2-HZc" kind="presentation" id="g1W-CO-din"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="5CF-UX-Tuu">
+                                <rect key="frame" x="16" y="20" width="343" height="563"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="fH2-O5-zDU"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7Mg-dh-mCm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="15109.6" y="-887.40629685157433"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="PGl-lo-ILJ">
+            <objects>
+                <viewController id="gK1-A2-HZc" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3YC-6T-1rw">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8gW-XV-wBO">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="presentation" id="pXV-iv-la2"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="AeV-kV-m4X"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="eJa-QH-boY" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="16215" y="-887"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="lZY-Ly-HUc">
+            <objects>
+                <viewController id="41G-FR-6AU" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="kDq-Ca-o87">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WV8-Wu-L4P">
+                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="presentation" id="sfT-fJ-AgA"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="KKp-h3-dOd"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4e5-hL-Sar" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="16214" y="-156"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="yYU-Ac-8Sq">
@@ -858,7 +1154,7 @@
                                 <rect key="frame" x="119" y="38" width="240" height="538"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I spent several minutes talking him down. I could hear the terror in his voice. Something scares him greatly about the Glaring. When he had calmed, we talked. "I told ya sir, I knows nothin'." "So you have said before. So, what do you want?" "Sir?" "I know you know about what I am looking for. If I do something for you, will you do me a favor back?" "Sir! would would help a lowly shrew?" "We are not cat and shrew here on the streets, but brothers. Brothers help each other out. If I do you a favor, you do me one back. Nothing wrong with that, eh?" "Sir..." He looked relieved. "The concern ya show for me, that eases me heart. I call that a favor enough." Strange. Typically if offered a favor shrews take that as a chance to get something shiny. "I'll tells ya what I knows. I'll warns yas, tis not much. Start at ta entrance to ta sewers near the western wall. That is where ya need ta look." "Thank you. You have helped me greatly." I got up to leave. "One more thin'. Beware of Brutus." "Thanks. I'll be sure to pay you back one day, Mr. Thalm."</mutableString>
+                                <string key="text">I spent several minutes talking him down. I could hear the terror in his voice. Something scares him greatly about the Glaring. When he had calmed, we talked. "I told ya sir, I knows nothin'." "So you have said before. So, what do you want?" "Sir?" "I know you know about what I am looking for. If I do something for you, will you do me a favor back?" "Sir! would would help a lowly shrew?" "We are not cat and shrew here on the streets, but brothers. Brothers help each other out. If I do you a favor, you do me one back. Nothing wrong with that, eh?" "Sir..." He looked relieved. "The concern ya show for me, that eases me heart. I call that a favor enough." Strange. Typically if offered a favor shrews take that as a chance to get something shiny. "I'll tells ya what I knows. I'll warns yas, tis not much. Start at ta entrance to ta sewers near the western wall. That is where ya need ta look." "Thank you. You have helped me greatly." I got up to leave. "One more thin'. Beware of Brutus." "Thanks. I'll be sure to pay you back one day, Mr. Thalm."</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -883,7 +1179,7 @@
                                 <rect key="frame" x="16" y="42" width="240" height="332"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">I made it to the sewer entrance  within an hour. Upon entering, I nearly gagged from the smell. This is most definitely the sewers, I thought. I looked around. A greenish haze wafted everywhere, reducing visibility. The walls, from what I could see, were covered in various molds and slime. The sewers were a place I visit only with specific goals in mind. Mukrats, gangs of large, nasty rodents lurk under here. The streets of the streets. When my eyes adjusted to the dark as best they can with the fog, I saw two paths before me, one to the left and one to the right. Now, which way to go?</mutableString>
+                                <string key="text">I made it to the sewer entrance  within an hour. Upon entering, I nearly gagged from the smell. This is most definitely the sewers, I thought. I looked around. A greenish haze wafted everywhere, reducing visibility. The walls, from what I could see, were covered in various molds and slime. The sewers were a place I visit only with specific goals in mind. Mukrats, gangs of large, nasty rodents lurk under here. The streets of the streets. When my eyes adjusted to the dark as best they can with the fog, I saw two paths before me, one to the left and one to the right. Now, which way to go?</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -916,5 +1212,6 @@
     <inferredMetricsTieBreakers>
         <segue reference="Gef-Ax-KPL"/>
         <segue reference="uTv-Nk-ipA"/>
+        <segue reference="pXV-iv-la2"/>
     </inferredMetricsTieBreakers>
 </document>
