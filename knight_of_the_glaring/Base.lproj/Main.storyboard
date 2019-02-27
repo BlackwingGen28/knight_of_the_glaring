@@ -597,13 +597,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kyl-zD-amk">
-                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <rect key="frame" x="150" y="617" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Continue..."/>
                                 <connections>
                                     <segue destination="x97-iW-PfO" kind="presentation" id="KqM-mf-iKG"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ccl-JK-9Cw">
+                                <rect key="frame" x="16" y="20" width="322" height="566"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I awoke in a clearing surrounded by dense forest. It was night, moonlight shined from the forest's roof above. I was still groggy from the blow to my head earlier. In front of me where three figures in long, simple hooded robes. Their eyes glowed from the black under their hoods, all fixated on me. The Glaring, I thought. When I had fully recovered, they began their judgement. "Gerbil, you have successfully completed the task given to all districts. You are not the only one to do so, however." Their voices were mystical. I was mesmerized just standing before them that I barely registered what I heard. "The point of the quest," they continued, alternating who spoke each sentence, "was not to test your ability to complete a given task with minimal information, but instead how you went about to complete your task. Your actions on this quest were the real test. Now to judge your actions." I waited with abated breath, for fear of what was to come. "When confronting our informant, Thalm, you chose to gather information by means of torture. This action can directly lead to losing a future informant, which is not favorable in this field of work. When entering the sewers, you killed those who opposed you, and thus missed valuable information for your mission. This lead directly to you losing your sword, and almost losing your life. Avoidably, of course. Your actions have been seen, recorded, and now judged."</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="ake-Qz-fpF"/>
@@ -611,7 +619,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="VV7-Fx-bvs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="15110" y="526"/>
+            <point key="canvasLocation" x="15109.6" y="525.78710644677665"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="jpr-qe-r9X">
@@ -629,6 +637,14 @@
                                     <segue destination="BYZ-38-t0r" kind="presentation" id="hjB-a3-ntb"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="DNk-Q2-ZKf">
+                                <rect key="frame" x="16" y="20" width="343" height="578"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="VWM-TH-2TS"/>
@@ -636,7 +652,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2lj-Q5-JKO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="16214" y="526"/>
+            <point key="canvasLocation" x="16213.6" y="525.78710644677665"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="PxT-VK-Rcs">
@@ -647,13 +663,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nz1-36-osF">
-                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <rect key="frame" x="150" y="617" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Continue..."/>
                                 <connections>
                                     <segue destination="41G-FR-6AU" kind="presentation" id="E6y-S2-TmK"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="GZc-Gz-Z9H">
+                                <rect key="frame" x="16" y="20" width="324" height="579"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I awoke in a clearing surrounded by dense forest. It was night, moonlight shined from the forest's roof above. I was still groggy from the blow to my head earlier. In front of me where three figures in long, simple hooded robes. Their eyes glowed from the black under their hoods, all fixated on me. The Glaring, I thought. When I had fully recovered, they began their judgement. "Gerbil, you have successfully completed the task given to all districts. You are not the only one to do so, however." Their voices were mystical. I was mesmerized just standing before them that I barely registered what I heard. "The point of the quest," they continued, alternating who spoke each sentence, "was not to test your ability to complete a given task with minimal information, but instead how you went about to complete your task. Your actions on this quest were the real test. Now to judge your actions." I stood in silence, waiting a judgement that I knew not the parameters for. "You met with our informant, Thalm. When given a choice, you chose to help him, admirable for one on the streets. However, when you entered the sewers, you chose violence when it was not obvious those who opposed you have valuable information. This directly lead to you losing your sword, and almost your life. Your actions were seen, recorded, and now judged."</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="4fO-hM-dGK"/>
@@ -661,7 +685,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vJ0-JV-FJm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="15110" y="-156"/>
+            <point key="canvasLocation" x="15109.6" y="-156.07196401799101"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="gfN-Cd-URQ">
@@ -672,13 +696,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a1n-Da-HmI">
-                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <rect key="frame" x="150" y="617" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Continue..."/>
                                 <connections>
                                     <segue destination="4ti-Hm-WJC" kind="presentation" id="Xww-JR-AQ8"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ghY-Xc-pkX">
+                                <rect key="frame" x="16" y="20" width="329" height="551"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">I awoke in a clearing surrounded by dense forest. It was night, moonlight shined from the forest's roof above. I was still groggy from the blow to my head earlier. In front of me where three figures in long, simple hooded robes. Their eyes glowed from the black under their hoods, all fixated on me. The Glaring, I thought. When I had fully recovered, they began their judgement. "Gerbil, you have successfully completed the task given to all districts. You are not the only one to do so, however." Their voices were mystical. I was mesmerized just standing before them that I barely registered what I heard. "The point of the quest," they continued, alternating who spoke each sentence, "was not to test your ability to complete a given task with minimal information, but instead how you went about to complete your task. Your actions on this quest were the real test. Now to judge your actions." I held my breath in anticipation, but not one with high expectations for success. "You met our informant, Thalm, tasked with acting the part of a scared witness. When confronting him, you acted in anger, and tortured the information out of him. Not an uncommon a method for information gathering for a street dweller. When confronting the Mukrats in the sewers, you opted to help rather than harm, allowing you to gain trust and valuable information for your mission. With said information, you befriended Brutus, and completed the task easily. Your actions have been seen, recorded, and now judged."</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="2rR-ar-JER"/>
@@ -686,7 +718,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nGp-QB-tZy" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="15110" y="1245"/>
+            <point key="canvasLocation" x="15109.6" y="1244.527736131934"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="90i-jI-tiA">
@@ -704,6 +736,14 @@
                                     <segue destination="BYZ-38-t0r" kind="presentation" id="xsi-Xs-CJC"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Liw-UC-Orv">
+                                <rect key="frame" x="16" y="20" width="343" height="579"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Ilx-bg-nOV"/>
@@ -711,7 +751,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="73a-80-Pjt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="16214" y="1245"/>
+            <point key="canvasLocation" x="16213.6" y="1244.527736131934"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="wWt-uv-vEF">
@@ -832,7 +872,7 @@
                                 <rect key="frame" x="71" y="37" width="288" height="522"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obedient to the note, I still waited. Smack! Something hit the back of my head, and I fell, unconcious.</mutableString>
+                                <string key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obedient to the note, I still waited. Smack! Something hit the back of my head, and I fell, unconcious.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -865,7 +905,7 @@
                                 <rect key="frame" x="64" y="20" width="295" height="483"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obedient to the note, I still waited. Smack! Something hit the back of my head, and I fell, unconcious.</mutableString>
+                                <string key="text">Pressing on, I looked at what  traded my rapier for: a small, silver whistle. Out of curiosity, I blew into the whistle.No sound rang out, though, insteadI felt resistance to my blow. I looked instide the pipe of the whistle, and found a small roll of paper with instruction on it. "Outside the western gate at midnight, blow the whistle. Wait there." With one more look at my weapon's graveyard, I made haste toward the gate. Upon arrival, I checked looked at the moon, and deduced it to be about midnight. I took a deep breath and made a long, shrill sound from the whistle. Then, I waited. And waited. The moon dropped down, and I deduced the wait at the time to be two hours. Obedient to the note, I still waited. Smack! Something hit the back of my head, and I fell, unconcious.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -1060,9 +1100,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pFF-g2-liv">
-                                <rect key="frame" x="164" y="591" width="46" height="30"/>
+                                <rect key="frame" x="150" y="591" width="75" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Continue..."/>
                                 <connections>
                                     <segue destination="gK1-A2-HZc" kind="presentation" id="g1W-CO-din"/>
                                 </connections>
@@ -1071,7 +1111,7 @@
                                 <rect key="frame" x="16" y="20" width="343" height="563"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <mutableString key="text">I awoke in a clearing surrounded by dense forest. It was night, moonlight shined from the forest's roof above. I was still groggy from the blow to my head earlier. In front of me where three figures in long, simple hooded robes. Their eyes glowed from the black under their hoods, all fixated on me. The Glaring, I thought. When I had fully recovered, they began their judgement. "Gerbil, you have successfully completed the task given to all districts. You are not the only one to do so, however." Their voices were mystical. I was mesmerized just standing before them that I barely registered what I heard. "The point of the quest," they continued, alternating who spoke each sentence, "was not to test your ability to complete a given task with minimal information, but instead how you went about to complete your task. Your actions on this quest were the real test. Now to judge your actions." I gulped. I do not know their criteria for judgement, much less their methods for a botched job, should they deem mine a failure. I could do not but wait in anticipated silence. "Our informant, Thalm, was assigned to act as a scared witness. You calmed him down, and showed kindness befitting a brother of the streets. From this point, your actions were watched. You encountered the Mukrats, and instead of resulting to your sword, you showed valor in helping them in their endeavours. From this, you helped Brutus, and gave him what he missed the most: a friend. Your actions were seen, recorded, and now judged."</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -1093,13 +1133,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8gW-XV-wBO">
-                                <rect key="frame" x="164" y="617" width="46" height="30"/>
+                                <rect key="frame" x="107" y="617" width="161" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Return to home screen."/>
                                 <connections>
                                     <segue destination="BYZ-38-t0r" kind="presentation" id="pXV-iv-la2"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="rhq-gJ-mt6">
+                                <rect key="frame" x="16" y="20" width="343" height="577"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <mutableString key="text">"Our judgement is thus: " they paused, and in unison declared " you are worthy of being our Knight of the Glaring." My heart leaped out of my control. I never thought myself worthy to gain such an honor, one in which I was never sure existed. "Do you accept this position, Gerbil?" The answer was obvious, but something nagged at me. "On one condition," I managed to croak. "may I visit a friend in the sewers every now and again?" "Brutus?" they asked, "Why would you want to visit a filthy dog?" "I made a promise, one to visit him. He and I share a similar past." "Ah, to keep a promise to one in which you formed an unspoken bond with." I nodded. "Very well. It is befitting for our Knight to maintain integrity. Then it is settled?" "Yes, I accept the position of Knight." To this, they spoke in unison once again, "It is done. We bestow upon you the rank of Knight. As the only one to pass the judgement of our Council, you, Gerbil, will now be known as Knight of the Glaring." Time seemed to freeze after I received this news. After years of living on the streets, doing what I must to survive, and all without much purpose, finally opened to a much brighter future. I thought of my new friend, Brutus. I am happy I get to see him again, that he won't get abandoned again. My last thouhgt, just before time started again, was that my story here as Gerbil the street cat is over. Nor begins my story as Gerbil, Knight of the Glaring!                      End.</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="AeV-kV-m4X"/>
@@ -1107,7 +1155,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eJa-QH-boY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="16215" y="-887"/>
+            <point key="canvasLocation" x="16213.6" y="-887.40629685157433"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="lZY-Ly-HUc">
@@ -1125,6 +1173,14 @@
                                     <segue destination="BYZ-38-t0r" kind="presentation" id="sfT-fJ-AgA"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="pT3-bZ-2oP">
+                                <rect key="frame" x="16" y="20" width="343" height="578"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="KKp-h3-dOd"/>
@@ -1132,7 +1188,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4e5-hL-Sar" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="16214" y="-156"/>
+            <point key="canvasLocation" x="16213.6" y="-156.07196401799101"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="yYU-Ac-8Sq">
@@ -1212,6 +1268,6 @@
     <inferredMetricsTieBreakers>
         <segue reference="Gef-Ax-KPL"/>
         <segue reference="uTv-Nk-ipA"/>
-        <segue reference="pXV-iv-la2"/>
+        <segue reference="sfT-fJ-AgA"/>
     </inferredMetricsTieBreakers>
 </document>
